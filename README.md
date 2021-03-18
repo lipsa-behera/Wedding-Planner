@@ -1,2 +1,1 @@
-# Wedding-Planner
-Subh Shagun
+This project was bootstrapped with [Create React App].
